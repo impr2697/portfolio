@@ -10,7 +10,7 @@ export default async function Home() {
   return (
     <>
       <nav>
-        <Link href="/" className="nav-logo"><span>&lt;</span>dev<span>/&gt;</span></Link>
+        <Link href="/" className="nav-logo"><span>&lt;</span>Pratik Ranjan<span>/&gt;</span></Link>
         <div className="nav-links">
           <a href="#projects">Projects</a>
           <a href="#about">About</a>
@@ -34,9 +34,7 @@ export default async function Home() {
         <div className="section-eyebrow">About me</div>
         <div className="section-title">Who I am</div>
         <p style={{ color: 'var(--muted)', maxWidth: 580, fontSize: '0.95rem', lineHeight: 1.8 }}>
-          A passionate developer focused on building great user experiences. I love working across the
-          full stack — from architecting APIs to crafting smooth UIs. When I&apos;m not coding, I&apos;m
-          probably tinkering with side projects.
+          Software Engineer with 5+ years of experience building AI-powered platforms, backend services, and developer productivity solutions using Python, GenAI, and cloud technologies. Experienced in LLMs, RAG, LangChain, distributed systems, and scalable application development, with a proven track record of delivering high-impact solutions.
         </p>
       </div>
 
